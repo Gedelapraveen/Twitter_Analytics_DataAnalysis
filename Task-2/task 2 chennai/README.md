@@ -79,7 +79,7 @@ Or handled using **Bookmarks + Toggle Buttons**.
 
 > Final scatter chart and dashboard snapshot
 
-![Dashboard Preview](./Final_Twitter_Dashboard.png)
+![Dashboard Preview](Task-2/task 2 chennai/Screenshot (70).png)
 
 ---
 

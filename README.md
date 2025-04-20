@@ -19,6 +19,8 @@ This repository includes three internship tasks completed during my **Data Analy
 - `Tweets.xlsx`
 - `visual_screenshot.png`
 
+![image alt](https://github.com/Gedelapraveen/Twitter_Dashboard_Real-Analytics_DataAnalysis/raw/main/task_1%20chennai/visual_screenshot.png)
+
 ---
 
 ### 🔹 Task 2 – Scatter Chart Analysis
@@ -45,6 +47,8 @@ This repository includes three internship tasks completed during my **Data Analy
 - `Screenshot (63).png`
 - `Final_Twitter_Dashboard.png`
 
+![image alt](https://github.com/Gedelapraveen/Twitter_Dashboard_Real-Analytics_DataAnalysis/raw/main/Task-2/task%202%20chennai/Screenshot%20(70).png?raw=true)
+
 ---
 
 ### 🔹 Task 3 – Line Chart with Visibility Control
@@ -62,6 +66,8 @@ This repository includes three internship tasks completed during my **Data Analy
 - `Tweet.xlsx`
 - `Dashboard_Screenshot.png`
 - `LineChart_Visibility.png`
+
+![image alt](https://github.com/Gedelapraveen/Twitter_Dashboard_Real-Analytics_DataAnalysis/raw/main/Task-3/task_3chennai/Screenshot%20(66).png?raw=true)
 
 ---
 

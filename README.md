@@ -1,63 +1,83 @@
-# Twitter_Analytics_Internship_task-1
-“Power BI Internship Task – Twitter Analytics”
 
-# 📊 Twitter Analytics Internship Dashboard – Power BI
+# 📊 Real-Time Twitter Analytics Dashboard – nullclass
 
-This repository contains all files related to my internship task for **NULLCLASS** as part of the **Real-Time Twitter Analytics Dashboard – Power BI** project.
+This repository includes three internship tasks completed during my **Data Analyst Internship at NullClass**, focused on Twitter data analysis using **Power BI** and **DAX**.
 
 ---
 
-## 📝 Task Overview
+## ✅ Task Summaries
 
-**Task 1:**
-
-Create a visual showing:
-- Average Engagement Rate
-- Total Impressions
-
-With filters:
-
-- Tweets from 01-01-2020 to 30-06-2020
+### 🔹 Task 1 – Avg Engagement & Impressions
+**Objective:** Create visuals showing average engagement rate and total impressions for tweets with:
 - Likes = 0
 - Impressions ≥ 100
-- Visible only between 3 PM – 5 PM IST
+- Date: 01-Jan-2020 to 30-Jun-2020
+- Time: 3 PM – 5 PM IST
+
+**Files:**
+- `Twitter Analytics Dashboard_[Task-1].pbix`
+- `Tweets.xlsx`
+- `visual_screenshot.png`
 
 ---
 
-## 📁 Files Included
+### 🔹 Task 2 – Scatter Chart Analysis
+**Objective:** Scatter chart of media engagements vs. media views for tweets that:
+- Have > 10 replies
+- Word count > 5
+- Are on odd-numbered days
+- Engagement rate > 5%
+- Time: 6 PM – 11 PM IST
 
-| File | Description |
-|------|-------------|
-| `Twitter Analytics Dashboard_[Task-1].pbix` | Power BI Dashboard file |
-| `Tweets.xlsx` | Mock dataset used in the dashboard |
-| `Internship_Report.docx` | Final internship report |
-| `visual_screenshot.png` | Screenshot of the dashboard |
-| `README.md` | This documentation file |
+**DAX Columns:**
+- `wordCount`: Count of words in Tweet
+- `Tweet Day`: Extract day from date
+- `IsOddDay`: Check if tweet date is odd
+- `Engagement Rate`: media engagements / impressions
+- `Highlight`: If engagement > 0.05
+
+**Filters:** replies, wordCount, IsOddDay
+
+**Files:**
+- `Twitter Dashboard.pbix`
+- `tweet.xlsx`
+- `Screenshot (62).png`
+- `Screenshot (63).png`
+- `Final_Twitter_Dashboard.png`
+
+---
+
+### 🔹 Task 3 – Line Chart with Visibility Control
+**Objective:** Show average engagement by month, visible only at specific hours or with a manual toggle. Exclude tweets with:
+- Tweet length ≤ 20
+- Even tweet date
+- Engagement count not even
+- Tweets with character 'C'
+
+**DAX Columns:** HourIST, CharacterCount, IsOddDate, IsEngagementEven, remove_C_fromTweet  
+**DAX Measures:** ShowGraphControl, GraphNoticeText
+
+**Files:**
+- `Twitter Dashboard.pbix`
+- `Tweet.xlsx`
+- `Dashboard_Screenshot.png`
+- `LineChart_Visibility.png`
 
 ---
 
 ## 💻 Tools Used
-
-- Power BI
-- DAX formulas
-- Bookmarks & Buttons
-- CSV file for data
-- GitHub for project submission
-
----
-
-## 🚀 Live Demonstration / Screenshots
-
-![Dashboard View](visual_screenshot.png)
+- Power BI Desktop
+- Microsoft Excel
+- DAX (Data Analysis Expressions)
+- Visual Filtering & Conditional Display
+- Power BI Bookmarks
 
 ---
 
-## 🔗 Author
+## 👤 Author
 
-**G. Praveen**  
-Intern at NULLCLASS  
-📅 Internship Period: 26 March 2025 – 26 April 2025
+**Gedela Praveen**  
+Intern @ NullClass, Chennai  
+📍 India
 
 ---
-
-

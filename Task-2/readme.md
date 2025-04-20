@@ -79,7 +79,7 @@ Or handled using **Bookmarks + Toggle Buttons**.
 
 > Final scatter chart and dashboard snapshot
 
-![Dashboard Preview](Screenshot (70).png)
+![image alt](https://github.com/Gedelapraveen/Twitter_Dashboard_Real-Analytics_DataAnalysis/blob/main/Task-2/task%202%20chennai/Screenshot%20(70).png?raw=true)
 
 ---
 

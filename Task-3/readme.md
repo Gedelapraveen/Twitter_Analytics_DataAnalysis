@@ -1,4 +1,3 @@
-
 # 🐦 Real-Time Twitter Analytics Dashboard – Power BI - [ TASK -3 ]
 
 This repository contains a Power BI project developed as part of my **Data Analyst Internship at NullClass**. The project focuses on analyzing Twitter engagement metrics with dynamic controls based on **system time** and **manual toggle** inputs.
@@ -80,8 +79,7 @@ IF(
 ---
 
 ## 📸 Dashboard Preview
-
-![Dashboard Screenshot](./Dashboard_Screenshot.png)
+![image alt](https://github.com/Gedelapraveen/Twitter_Dashboard_Real-Analytics_DataAnalysis/blob/main/Task-3/task_3chennai/Screenshot%20(66).png?raw=true)
 
 ---
 

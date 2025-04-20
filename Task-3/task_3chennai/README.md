@@ -81,7 +81,7 @@ IF(
 
 ## 📸 Dashboard Preview
 
-![Dashboard Screenshot](./Dashboard_Screenshot.png)
+![Dashboard Screenshot](https://github.com/Gedelapraveen/Twitter_Dashboard_Real-Analytics_DataAnalysis/blob/main/Task-3/task_3chennai/Screenshot%20(66).png?raw=true)
 
 ---
 

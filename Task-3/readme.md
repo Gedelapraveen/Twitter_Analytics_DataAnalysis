@@ -107,8 +107,8 @@ Feel free to connect with me on [LinkedIn](#) or reach out via email if you have
 
 📌 Author
 Praveen Gedela
-Intern @ NullClass / AVC IT Solutions
-📍 Hyderabad, India
+Intern @ NullClass / 
+📍 Chennai, India
 
 
 
